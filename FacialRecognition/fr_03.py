@@ -27,6 +27,7 @@ print("\n [INFO] Initializing face capture. Look the camera and wait ...")
 # Initialize individual sampling face count
 count = 0
 
+# for both cat and don
 while True:
     ret, img = cam.read()
     # time.sleep(5)
