@@ -1,0 +1,8 @@
+*.xml
+.DS_Store
+
+.idea/
+
+*/trainer/
+*/machi/
+*/dataset/
