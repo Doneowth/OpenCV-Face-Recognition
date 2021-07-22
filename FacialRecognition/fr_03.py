@@ -29,6 +29,8 @@ count = 0
 
 # merge
 # for hi cat and don  merge merge
+# a
+# b
 while True:
     ret, img = cam.read()
     # time.sleep(5)
