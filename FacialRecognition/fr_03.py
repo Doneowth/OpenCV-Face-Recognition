@@ -28,7 +28,9 @@ print("\n [INFO] Initializing face capture. Look the camera and wait ...")
 count = 0
 
 # merge
-# for hi cat and don  merge merge merge 2
+# for hi cat and don  merge merge
+# a
+# b
 while True:
     ret, img = cam.read()
     # time.sleep(5)
